@@ -1,4 +1,3 @@
 this is a
 hello
 thanks
-do
